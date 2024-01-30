@@ -7,7 +7,7 @@
 🌱 I enjoy learning new technologies and love to share my knowledge.
 
 ### 🌐 Connect with Me:
-- [LinkedIn](www.linkedin.com/in/riooktavian36)
+- [LinkedIn](https://www.linkedin.com/in/riooktavian36)
 - Email: [okt@rivos.my.id]
 
 ### 📈 GitHub Stats:
