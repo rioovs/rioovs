@@ -1,5 +1,6 @@
-<h3 align="center">Hi 👋, I'm Rio</h1>
+<h1 align="center">Hi 👋, I'm Rio</h1>
 <!-- <h3 align="center">A passionate frontend developer from Indonesia</h3> -->
+[![Rio GitHub stats](https://github-readme-stats.vercel.app/api?username=rioovs)](https://github.com/rioovs/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
