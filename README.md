@@ -10,7 +10,6 @@ My Profile https://rioovs-portofolio.vercel.app/
 
 ### 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/riooktavian36)
-- Email: [okt@rivos.my.id]
 
 ### 📈 GitHub Stats:
 [![Rio](https://github-readme-stats.vercel.app/api?username=rioovs&show_icons=true&theme=tokyonight)](https://github.com/rioovs/github-readme-stats)
