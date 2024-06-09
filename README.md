@@ -6,7 +6,7 @@
 
 🌱 I enjoy learning new technologies and love to share my knowledge.
 
-My Profile https://rioovs-portofolio.vercel.app/
+My Profile https://rioovs.my.id/
 
 ### 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/riooktavian36)
